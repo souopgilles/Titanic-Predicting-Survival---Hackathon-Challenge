@@ -1,0 +1,37 @@
+# --- Python ---
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environment ---
+# A common folder name for virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# --- Conda ---
+# Conda environment metadata
+.conda/
+conda-meta/
+
+# --- Data Files ---
+# Ignore the input data directory provided by Kaggle.
+data/
+
+# --- Jupyter Notebook ---
+# Ignore the checkpoints directory
+.ipynb_checkpoints/
+
+# --- IDE/Editor specific files ---
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# --- macOS ---
+.DS_Store

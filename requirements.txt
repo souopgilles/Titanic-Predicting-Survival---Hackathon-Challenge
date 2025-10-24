@@ -1,0 +1,11 @@
+# --- Core Data Science Libraries ---
+pandas==2.2.2          # For data manipulation and reading CSV files
+numpy==1.26.4          # For numerical operations
+scikit-learn==1.5.0    # For machine learning models and utilities
+
+# --- Plotting and Visualization ---
+matplotlib==3.9.0      # For creating static, animated, and interactive visualizations
+seaborn==0.13.2        # For making statistical graphics more attractive and informative
+
+# --- Development Environment ---
+jupyterlab==4.2.1      # For running Jupyter Notebooks
